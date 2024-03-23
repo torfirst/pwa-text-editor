@@ -12,7 +12,7 @@ Access here: https://pwa-text-editor-0eki.onrender.com/
 
 Text editor can be found at: https://pwa-text-editor-0eki.onrender.com/ 
 
-![To install the PWA, click the install button in the URL bar, outlined in red in this image.](../pwa-text-editor/install-PWA.png)
+![To install the PWA, click the install button in the URL bar, outlined in red in this image.](/server/install-PWA.png)
 
 ## Credits
 
